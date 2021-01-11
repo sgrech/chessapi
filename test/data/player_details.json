@@ -1,0 +1,15 @@
+{
+  "avatar": "https://images.chesscomfiles.com/uploads/v1/user/81701324.219d90b6.200x200o.81c4f77b54f6.jpeg",
+  "player_id": 81701324,
+  "@id": "https://api.chess.com/pub/player/eladhel",
+  "url": "https://www.chess.com/member/eladhel",
+  "name": "Shane Grech",
+  "username": "eladhel",
+  "followers": 9,
+  "country": "https://api.chess.com/pub/country/MT",
+  "location": "Malta",
+  "last_online": 1610101517,
+  "joined": 1591477924,
+  "status": "premium",
+  "is_streamer": false
+}
